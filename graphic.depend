@@ -1,0 +1,158 @@
+# depslib dependency file v1.0
+1571529525 source:c:\users\pc\desktop\graphic\main.c
+	<tchar.h>
+	<myconio.h>
+	<stdio.h>
+	<windows.h>
+
+1571522326 source:d:\kais nouveau\kais 2019_2020\menu deroulant\graphic 1\main.c
+	<tchar.h>
+	<myconio.h>
+	<stdio.h>
+	<windows.h>
+
+1571522326 source:c:\users\dell\desktop\projet s1 gi\graphic 1\main.c
+	<tchar.h>
+	<myconio.h>
+	<stdio.h>
+	<windows.h>
+
+1571522326 source:c:\users\dell\desktop\projet etudiant\projet\main.c
+	<tchar.h>
+	<myconio.h>
+	<stdio.h>
+	<windows.h>
+
+1571525926 source:c:\users\maissa\desktop\projet etudiant\code menu\main.c
+	<tchar.h>
+	<myconio.h>
+	<stdio.h>
+	<windows.h>
+
+1576498866 source:c:\users\maissa\desktop\programc_3info\projet etudiant\code menu\main.c
+	<tchar.h>
+	<myconio.h>
+	<stdio.h>
+	<windows.h>
+	"entre_sortie.h"
+	"TP1.h"
+
+1576149881 c:\users\maissa\desktop\programc_3info\projet etudiant\code menu\entre_sortie.h
+
+1576501879 c:\users\maissa\desktop\programc_3info\projet etudiant\code menu\tp1.h
+
+1577576679 source:c:\users\maissa\desktop\programc_3info\projet etudiant_maissa_oumaima\code menu\main.c
+	<tchar.h>
+	<myconio.h>
+	<stdio.h>
+	<windows.h>
+	"TP2.h"
+	"fichiers.h"
+	"entree_sortie.h"
+	"remplissage_tab.h"
+	"TP1.h"
+	"jeux.h"
+	"TP3.h"
+
+1576149881 c:\users\maissa\desktop\programc_3info\projet etudiant_maissa_oumaima\code menu\entre_sortie.h
+
+1577485450 c:\users\maissa\desktop\programc_3info\projet etudiant_maissa_oumaima\code menu\tp1.h
+
+1577575703 c:\users\maissa\desktop\programc_3info\projet etudiant_maissa_oumaima\code menu\tp2.h
+	<stdio.h>
+	<stdlib.h>
+	"entree_sortie.h"
+
+1577276032 c:\users\maissa\desktop\programc_3info\projet etudiant_maissa_oumaima\code menu\fichiers.h
+
+1577491516 c:\users\maissa\desktop\programc_3info\projet etudiant_maissa_oumaima\code menu\entree_sortie.h
+
+1577487654 c:\users\maissa\desktop\programc_3info\projet etudiant_maissa_oumaima\code menu\remplissage_tab.h
+
+1577490509 c:\users\maissa\desktop\programc_3info\projet etudiant_maissa_oumaima\code menu\jeux.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<locale.h>
+
+1577643811 c:\users\maissa\desktop\programc_3info\projet etudiant_maissa_oumaima\code menu\tp3.h
+
+1577695458 source:c:\users\chedly\desktop\maysaa\main.c
+	<tchar.h>
+	<myconio.h>
+	<stdio.h>
+	<windows.h>
+	"TP2.h"
+	"fichiers.h"
+	"entree_sortie.h"
+	"remplissage_tab.h"
+	"TP1.h"
+	"TP3.h"
+
+1577640908 c:\users\chedly\desktop\maysaa\tp2.h
+	<stdio.h>
+	<stdlib.h>
+	"entree_sortie.h"
+
+1577695879 c:\users\chedly\desktop\maysaa\entree_sortie.h
+
+1577692218 c:\users\chedly\desktop\maysaa\fichiers.h
+
+1577693309 c:\users\chedly\desktop\maysaa\remplissage_tab.h
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"fichiers.h"
+	"entree_sortie.h"
+	"TP2.h"
+
+1577696145 c:\users\chedly\desktop\maysaa\tp1.h
+	"entree_sortie.h"
+
+1577640908 c:\users\chedly\desktop\maysaa\jeux.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<locale.h>
+
+1577640908 c:\users\chedly\desktop\maysaa\tp3.h
+
+1577970439 source:c:\users\chedly\desktop\chedly\main.c
+	<tchar.h>
+	<myconio.h>
+	<stdio.h>
+	<windows.h>
+	"TP2.h"
+	"fichiers.h"
+	"entree_sortie.h"
+	"remplissage_tab.h"
+	"TP1.h"
+	"TP3.h"
+	"jeux.h"
+
+1577968959 c:\users\chedly\desktop\chedly\tp2.h
+	<stdio.h>
+	<stdlib.h>
+	"entree_sortie.h"
+
+1577968295 c:\users\chedly\desktop\chedly\entree_sortie.h
+
+1577692218 c:\users\chedly\desktop\chedly\fichiers.h
+
+1577693309 c:\users\chedly\desktop\chedly\remplissage_tab.h
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"fichiers.h"
+	"entree_sortie.h"
+	"TP2.h"
+
+1577696145 c:\users\chedly\desktop\chedly\tp1.h
+	"entree_sortie.h"
+
+1577970279 c:\users\chedly\desktop\chedly\tp3.h
+
+1577969378 c:\users\chedly\desktop\chedly\jeux.h
+
